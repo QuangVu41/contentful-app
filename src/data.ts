@@ -20,3 +20,5 @@ const projects = [
     image: './assets/questions.png',
   },
 ];
+
+export default projects;
